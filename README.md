@@ -1,5 +1,4 @@
 # website-cool-sitemap
-website-cool-sitemap Wordpress plugin
 
 This plugin will allow you to post the sitemap of your website in a easy and cool way.
 With this plugin you can:
